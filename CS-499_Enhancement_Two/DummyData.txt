@@ -1,0 +1,500 @@
+CSCI100,Introduction to Computer Science
+CSCI110,Fundamentals of Computer Science
+CSCI120,Computer Science I,CSCI100
+CSCI130,Computer Science II,CSCI120,MATH100
+CSCI140,Intermediate Computer Science,CSCI130
+CSCI150,Advanced Computer Science,CSCI140
+CSCI160,Laboratory in Computer Science,CSCI150,MATH100
+CSCI170,Seminar in Computer Science,CSCI160
+CSCI180,Topics in Computer Science,CSCI170
+CSCI190,Methods in Computer Science,CSCI180
+CSCI200,Applied Computer Science,CSCI190
+CSCI210,Theory of Computer Science,CSCI200
+CSCI220,Design in Computer Science,CSCI210
+CSCI230,Analysis of Computer Science,CSCI220
+CSCI240,Project in Computer Science,CSCI230
+CSCI250,Capstone in Computer Science,CSCI240
+CSCI260,Research in Computer Science,CSCI250
+CSCI270,Special Topics in Computer Science,CSCI260
+CSCI280,Practicum in Computer Science,CSCI270
+CSCI290,Independent Study in Computer Science,CSCI280
+MATH100,Introduction to Mathematics
+MATH110,Foundations of Mathematics
+MATH120,Mathematics I,MATH100
+MATH130,Mathematics II,MATH120
+MATH140,Intermediate Mathematics,MATH130
+MATH150,Advanced Mathematics,MATH140
+MATH160,Laboratory in Mathematics,MATH150
+MATH170,Seminar in Mathematics,MATH160
+MATH180,Topics in Mathematics,MATH170
+MATH190,Methods in Mathematics,MATH180
+MATH200,Applied Mathematics,MATH190
+MATH210,Theory of Mathematics,MATH200
+MATH220,Design in Mathematics,MATH210
+MATH230,Analysis of Mathematics,MATH220
+MATH240,Project in Mathematics,MATH230
+MATH250,Capstone in Mathematics,MATH240
+MATH260,Research in Mathematics,MATH250
+MATH270,Special Topics in Mathematics,MATH260
+MATH280,Practicum in Mathematics,MATH270
+MATH290,Independent Study in Mathematics,MATH280
+PHYS100,Introduction to Physics
+PHYS110,Foundations of Physics
+PHYS120,Physics I,PHYS100
+PHYS130,Physics II,PHYS120,MATH100
+PHYS140,Intermediate Physics,PHYS130
+PHYS150,Advanced Physics,PHYS140
+PHYS160,Laboratory in Physics,PHYS150,MATH100
+PHYS170,Seminar in Physics,PHYS160
+PHYS180,Topics in Physics,PHYS170
+PHYS190,Methods in Physics,PHYS180
+PHYS200,Applied Physics,PHYS190
+PHYS210,Theory of Physics,PHYS200
+PHYS220,Design in Physics,PHYS210
+PHYS230,Analysis of Physics,PHYS220
+PHYS240,Project in Physics,PHYS230
+PHYS250,Capstone in Physics,PHYS240
+PHYS260,Research in Physics,PHYS250
+PHYS270,Special Topics in Physics,PHYS260
+PHYS280,Practicum in Physics,PHYS270
+PHYS290,Independent Study in Physics,PHYS280
+CHEM100,Introduction to Chemistry
+CHEM110,Foundations of Chemistry
+CHEM120,Chemistry I,CHEM100
+CHEM130,Chemistry II,CHEM120,MATH100
+CHEM140,Intermediate Chemistry,CHEM130
+CHEM150,Advanced Chemistry,CHEM140
+CHEM160,Laboratory in Chemistry,CHEM150,MATH100
+CHEM170,Seminar in Chemistry,CHEM160
+CHEM180,Topics in Chemistry,CHEM170
+CHEM190,Methods in Chemistry,CHEM180
+CHEM200,Applied Chemistry,CHEM190
+CHEM210,Theory of Chemistry,CHEM200
+CHEM220,Design in Chemistry,CHEM210
+CHEM230,Analysis of Chemistry,CHEM220
+CHEM240,Project in Chemistry,CHEM230
+CHEM250,Capstone in Chemistry,CHEM240
+CHEM260,Research in Chemistry,CHEM250
+CHEM270,Special Topics in Chemistry,CHEM260
+CHEM280,Practicum in Chemistry,CHEM270
+CHEM290,Independent Study in Chemistry,CHEM280
+BIO100,Introduction to Biology
+BIO110,Foundations of Biology
+BIO120,Biology I,BIO100
+BIO130,Biology II,BIO120,MATH100
+BIO140,Intermediate Biology,BIO130
+BIO150,Advanced Biology,BIO140
+BIO160,Laboratory in Biology,BIO150,MATH100
+BIO170,Seminar in Biology,BIO160
+BIO180,Topics in Biology,BIO170
+BIO190,Methods in Biology,BIO180
+BIO200,Applied Biology,BIO190
+BIO210,Theory of Biology,BIO200
+BIO220,Design in Biology,BIO210
+BIO230,Analysis of Biology,BIO220
+BIO240,Project in Biology,BIO230
+BIO250,Capstone in Biology,BIO240
+BIO260,Research in Biology,BIO250
+BIO270,Special Topics in Biology,BIO260
+BIO280,Practicum in Biology,BIO270
+BIO290,Independent Study in Biology,BIO280
+ENGL100,Introduction to English
+ENGL110,Foundations of English
+ENGL120,English I,ENGL100
+ENGL130,English II,ENGL120
+ENGL140,Intermediate English,ENGL130
+ENGL150,Advanced English,ENGL140
+ENGL160,Laboratory in English,ENGL150
+ENGL170,Seminar in English,ENGL160
+ENGL180,Topics in English,ENGL170
+ENGL190,Methods in English,ENGL180
+ENGL200,Applied English,ENGL190
+ENGL210,Theory of English,ENGL200
+ENGL220,Design in English,ENGL210
+ENGL230,Analysis of English,ENGL220
+ENGL240,Project in English,ENGL230
+ENGL250,Capstone in English,ENGL240
+ENGL260,Research in English,ENGL250
+ENGL270,Special Topics in English,ENGL260
+ENGL280,Practicum in English,ENGL270
+ENGL290,Independent Study in English,ENGL280
+HIST100,Introduction to History
+HIST110,Foundations of History
+HIST120,History I,HIST100
+HIST130,History II,HIST120
+HIST140,Intermediate History,HIST130
+HIST150,Advanced History,HIST140
+HIST160,Laboratory in History,HIST150
+HIST170,Seminar in History,HIST160
+HIST180,Topics in History,HIST170
+HIST190,Methods in History,HIST180
+HIST200,Applied History,HIST190
+HIST210,Theory of History,HIST200
+HIST220,Design in History,HIST210
+HIST230,Analysis of History,HIST220
+HIST240,Project in History,HIST230
+HIST250,Capstone in History,HIST240
+HIST260,Research in History,HIST250
+HIST270,Special Topics in History,HIST260
+HIST280,Practicum in History,HIST270
+HIST290,Independent Study in History,HIST280
+ECON100,Introduction to Economics
+ECON110,Foundations of Economics
+ECON120,Economics I,ECON100
+ECON130,Economics II,ECON120,MATH100
+ECON140,Intermediate Economics,ECON130
+ECON150,Advanced Economics,ECON140
+ECON160,Laboratory in Economics,ECON150,MATH100
+ECON170,Seminar in Economics,ECON160
+ECON180,Topics in Economics,ECON170
+ECON190,Methods in Economics,ECON180
+ECON200,Applied Economics,ECON190
+ECON210,Theory of Economics,ECON200
+ECON220,Design in Economics,ECON210
+ECON230,Analysis of Economics,ECON220
+ECON240,Project in Economics,ECON230
+ECON250,Capstone in Economics,ECON240
+ECON260,Research in Economics,ECON250
+ECON270,Special Topics in Economics,ECON260
+ECON280,Practicum in Economics,ECON270
+ECON290,Independent Study in Economics,ECON280
+PSYC100,Introduction to Psychology
+PSYC110,Foundations of Psychology
+PSYC120,Psychology I,PSYC100
+PSYC130,Psychology II,PSYC120
+PSYC140,Intermediate Psychology,PSYC130
+PSYC150,Advanced Psychology,PSYC140
+PSYC160,Laboratory in Psychology,PSYC150
+PSYC170,Seminar in Psychology,PSYC160
+PSYC180,Topics in Psychology,PSYC170
+PSYC190,Methods in Psychology,PSYC180
+PSYC200,Applied Psychology,PSYC190
+PSYC210,Theory of Psychology,PSYC200
+PSYC220,Design in Psychology,PSYC210
+PSYC230,Analysis of Psychology,PSYC220
+PSYC240,Project in Psychology,PSYC230
+PSYC250,Capstone in Psychology,PSYC240
+PSYC260,Research in Psychology,PSYC250
+PSYC270,Special Topics in Psychology,PSYC260
+PSYC280,Practicum in Psychology,PSYC270
+PSYC290,Independent Study in Psychology,PSYC280
+ART100,Introduction to Art
+ART110,Foundations of Art
+ART120,Art I,ART100
+ART130,Art II,ART120
+ART140,Intermediate Art,ART130
+ART150,Advanced Art,ART140
+ART160,Studio in Art,ART150
+ART170,Seminar in Art,ART160
+ART180,Topics in Art,ART170
+ART190,Methods in Art,ART180
+ART200,Applied Art,ART190
+ART210,Theory of Art,ART200
+ART220,Design in Art,ART210
+ART230,Analysis of Art,ART220
+ART240,Project in Art,ART230
+ART250,Capstone in Art,ART240
+ART260,Research in Art,ART250
+ART270,Special Topics in Art,ART260
+ART280,Practicum in Art,ART270
+ART290,Independent Study in Art,ART280
+BUS100,Introduction to Business
+BUS110,Foundations of Business
+BUS120,Business I,BUS100
+BUS130,Business II,BUS120
+BUS140,Intermediate Business,BUS130
+BUS150,Advanced Business,BUS140
+BUS160,Laboratory in Business,BUS150
+BUS170,Seminar in Business,BUS160
+BUS180,Topics in Business,BUS170
+BUS190,Methods in Business,BUS180
+BUS200,Applied Business,BUS190
+BUS210,Theory of Business,BUS200
+BUS220,Design in Business,BUS210
+BUS230,Analysis of Business,BUS220
+BUS240,Project in Business,BUS230
+BUS250,Capstone in Business,BUS240
+BUS260,Research in Business,BUS250
+BUS270,Special Topics in Business,BUS260
+BUS280,Practicum in Business,BUS270
+BUS290,Independent Study in Business,BUS280
+STAT100,Introduction to Statistics
+STAT110,Foundations of Statistics
+STAT120,Statistics I,STAT100
+STAT130,Statistics II,STAT120,MATH100
+STAT140,Intermediate Statistics,STAT130
+STAT150,Advanced Statistics,STAT140
+STAT160,Laboratory in Statistics,STAT150,MATH100
+STAT170,Seminar in Statistics,STAT160
+STAT180,Topics in Statistics,STAT170
+STAT190,Methods in Statistics,STAT180
+STAT200,Applied Statistics,STAT190
+STAT210,Theory of Statistics,STAT200
+STAT220,Design in Statistics,STAT210
+STAT230,Analysis of Statistics,STAT220
+STAT240,Project in Statistics,STAT230
+STAT250,Capstone in Statistics,STAT240
+STAT260,Research in Statistics,STAT250
+STAT270,Special Topics in Statistics,STAT260
+STAT280,Practicum in Statistics,STAT270
+STAT290,Independent Study in Statistics,STAT280
+EE100,Introduction to Electrical Engineering
+EE110,Foundations of Electrical Engineering
+EE120,Electrical Engineering I,EE100
+EE130,Electrical Engineering II,EE120,MATH100
+EE140,Intermediate Electrical Engineering,EE130
+EE150,Advanced Electrical Engineering,EE140
+EE160,Laboratory in Electrical Engineering,EE150,MATH100
+EE170,Seminar in Electrical Engineering,EE160
+EE180,Topics in Electrical Engineering,EE170
+EE190,Methods in Electrical Engineering,EE180
+EE200,Applied Electrical Engineering,EE190
+EE210,Theory of Electrical Engineering,EE200
+EE220,Design in Electrical Engineering,EE210
+EE230,Analysis of Electrical Engineering,EE220
+EE240,Project in Electrical Engineering,EE230
+EE250,Capstone in Electrical Engineering,EE240
+EE260,Research in Electrical Engineering,EE250
+EE270,Special Topics in Electrical Engineering,EE260
+EE280,Practicum in Electrical Engineering,EE270
+EE290,Independent Study in Electrical Engineering,EE280
+MECH100,Introduction to Mechanical Engineering
+MECH110,Foundations of Mechanical Engineering
+MECH120,Mechanical Engineering I,MECH100
+MECH130,Mechanical Engineering II,MECH120,PHYS100
+MECH140,Intermediate Mechanical Engineering,MECH130
+MECH150,Advanced Mechanical Engineering,MECH140
+MECH160,Laboratory in Mechanical Engineering,MECH150,PHYS100
+MECH170,Seminar in Mechanical Engineering,MECH160
+MECH180,Topics in Mechanical Engineering,MECH170
+MECH190,Methods in Mechanical Engineering,MECH180
+MECH200,Applied Mechanical Engineering,MECH190
+MECH210,Theory of Mechanical Engineering,MECH200
+MECH220,Design in Mechanical Engineering,MECH210
+MECH230,Analysis of Mechanical Engineering,MECH220
+MECH240,Project in Mechanical Engineering,MECH230
+MECH250,Capstone in Mechanical Engineering,MECH240
+MECH260,Research in Mechanical Engineering,MECH250
+MECH270,Special Topics in Mechanical Engineering,MECH260
+MECH280,Practicum in Mechanical Engineering,MECH270
+MECH290,Independent Study in Mechanical Engineering,MECH280
+CIVL100,Introduction to Civil Engineering
+CIVL110,Foundations of Civil Engineering
+CIVL120,Civil Engineering I,CIVL100
+CIVL130,Civil Engineering II,CIVL120,PHYS100
+CIVL140,Intermediate Civil Engineering,CIVL130
+CIVL150,Advanced Civil Engineering,CIVL140
+CIVL160,Laboratory in Civil Engineering,CIVL150,PHYS100
+CIVL170,Seminar in Civil Engineering,CIVL160
+CIVL180,Topics in Civil Engineering,CIVL170
+CIVL190,Methods in Civil Engineering,CIVL180
+CIVL200,Applied Civil Engineering,CIVL190
+CIVL210,Theory of Civil Engineering,CIVL200
+CIVL220,Design in Civil Engineering,CIVL210
+CIVL230,Analysis of Civil Engineering,CIVL220
+CIVL240,Project in Civil Engineering,CIVL230
+CIVL250,Capstone in Civil Engineering,CIVL240
+CIVL260,Research in Civil Engineering,CIVL250
+CIVL270,Special Topics in Civil Engineering,CIVL260
+CIVL280,Practicum in Civil Engineering,CIVL270
+CIVL290,Independent Study in Civil Engineering,CIVL280
+PHIL100,Introduction to Philosophy
+PHIL110,Foundations of Philosophy
+PHIL120,Philosophy I,PHIL100
+PHIL130,Philosophy II,PHIL120
+PHIL140,Intermediate Philosophy,PHIL130
+PHIL150,Advanced Philosophy,PHIL140
+PHIL160,Seminar in Philosophy,PHIL150
+PHIL170,Seminar in Contemporary Philosophy,PHIL160
+PHIL180,Topics in Philosophy,PHIL170
+PHIL190,Methods in Philosophy,PHIL180
+PHIL200,Applied Philosophy,PHIL190
+PHIL210,Theory of Philosophy,PHIL200
+PHIL220,Design in Philosophy,PHIL210
+PHIL230,Analysis of Philosophy,PHIL220
+PHIL240,Project in Philosophy,PHIL230
+PHIL250,Capstone in Philosophy,PHIL240
+PHIL260,Research in Philosophy,PHIL250
+PHIL270,Special Topics in Philosophy,PHIL260
+PHIL280,Practicum in Philosophy,PHIL270
+PHIL290,Independent Study in Philosophy,PHIL280
+SOCI100,Introduction to Sociology
+SOCI110,Foundations of Sociology
+SOCI120,Sociology I,SOCI100
+SOCI130,Sociology II,SOCI120
+SOCI140,Intermediate Sociology,SOCI130
+SOCI150,Advanced Sociology,SOCI140
+SOCI160,Seminar in Sociology,SOCI150
+SOCI170,Seminar in Social Research,SOCI160
+SOCI180,Topics in Sociology,SOCI170
+SOCI190,Methods in Sociology,SOCI180
+SOCI200,Applied Sociology,SOCI190
+SOCI210,Theory of Sociology,SOCI200
+SOCI220,Design in Sociology,SOCI210
+SOCI230,Analysis of Sociology,SOCI220
+SOCI240,Project in Sociology,SOCI230
+SOCI250,Capstone in Sociology,SOCI240
+SOCI260,Research in Sociology,SOCI250
+SOCI270,Special Topics in Sociology,SOCI260
+SOCI280,Practicum in Sociology,SOCI270
+SOCI290,Independent Study in Sociology,SOCI280
+ANTH100,Introduction to Anthropology
+ANTH110,Foundations of Anthropology
+ANTH120,Anthropology I,ANTH100
+ANTH130,Anthropology II,ANTH120
+ANTH140,Intermediate Anthropology,ANTH130
+ANTH150,Advanced Anthropology,ANTH140
+ANTH160,Field Methods in Anthropology,ANTH150
+ANTH170,Seminar in Anthropology,ANTH160
+ANTH180,Topics in Anthropology,ANTH170
+ANTH190,Methods in Anthropology,ANTH180
+ANTH200,Applied Anthropology,ANTH190
+ANTH210,Theory of Anthropology,ANTH200
+ANTH220,Design in Anthropology,ANTH210
+ANTH230,Analysis of Anthropology,ANTH220
+ANTH240,Project in Anthropology,ANTH230
+ANTH250,Capstone in Anthropology,ANTH240
+ANTH260,Research in Anthropology,ANTH250
+ANTH270,Special Topics in Anthropology,ANTH260
+ANTH280,Practicum in Anthropology,ANTH270
+ANTH290,Independent Study in Anthropology,ANTH280
+LING100,Introduction to Linguistics
+LING110,Foundations of Linguistics
+LING120,Linguistics I,LING100
+LING130,Linguistics II,LING120
+LING140,Intermediate Linguistics,LING130
+LING150,Advanced Linguistics,LING140
+LING160,Laboratory in Linguistics,LING150
+LING170,Seminar in Linguistics,LING160
+LING180,Topics in Linguistics,LING170
+LING190,Methods in Linguistics,LING180
+LING200,Applied Linguistics,LING190
+LING210,Theory of Linguistics,LING200
+LING220,Design in Linguistics,LING210
+LING230,Analysis of Linguistics,LING220
+LING240,Project in Linguistics,LING230
+LING250,Capstone in Linguistics,LING240
+LING260,Research in Linguistics,LING250
+LING270,Special Topics in Linguistics,LING260
+LING280,Practicum in Linguistics,LING270
+LING290,Independent Study in Linguistics,LING280
+MUSIC100,Introduction to Music
+MUSIC110,Foundations of Music
+MUSIC120,Music I,MUSIC100
+MUSIC130,Music II,MUSIC120
+MUSIC140,Intermediate Music,MUSIC130
+MUSIC150,Advanced Music,MUSIC140
+MUSIC160,Ensemble in Music,MUSIC150
+MUSIC170,Seminar in Music,MUSIC160
+MUSIC180,Topics in Music,MUSIC170
+MUSIC190,Methods in Music,MUSIC180
+MUSIC200,Applied Music,MUSIC190
+MUSIC210,Theory of Music,MUSIC200
+MUSIC220,Composition and Design,MUSIC210
+MUSIC230,Analysis of Music,MUSIC220
+MUSIC240,Project in Music,MUSIC230
+MUSIC250,Capstone in Music,MUSIC240
+MUSIC260,Research in Music,MUSIC250
+MUSIC270,Special Topics in Music,MUSIC260
+MUSIC280,Practicum in Music,MUSIC270
+MUSIC290,Independent Study in Music,MUSIC280
+THEA100,Introduction to Theatre
+THEA110,Foundations of Theatre
+THEA120,Theatre I,THEA100
+THEA130,Theatre II,THEA120
+THEA140,Intermediate Theatre,THEA130
+THEA150,Advanced Theatre,THEA140
+THEA160,Production Lab,THEA150
+THEA170,Seminar in Theatre,THEA160
+THEA180,Topics in Theatre,THEA170
+THEA190,Methods in Theatre,THEA180
+THEA200,Applied Theatre,THEA190
+THEA210,Theory of Theatre,THEA200
+THEA220,Design in Theatre,THEA210
+THEA230,Analysis of Theatre,THEA220
+THEA240,Project in Theatre,THEA230
+THEA250,Capstone in Theatre,THEA240
+THEA260,Research in Theatre,THEA250
+THEA270,Special Topics in Theatre,THEA260
+THEA280,Practicum in Theatre,THEA270
+THEA290,Independent Study in Theatre,THEA280
+GEOG100,Introduction to Geography
+GEOG110,Foundations of Geography
+GEOG120,Geography I,GEOG100
+GEOG130,Geography II,GEOG120
+GEOG140,Intermediate Geography,GEOG130
+GEOG150,Advanced Geography,GEOG140
+GEOG160,Field Methods in Geography,GEOG150
+GEOG170,Seminar in Geography,GEOG160
+GEOG180,Topics in Geography,GEOG170
+GEOG190,Methods in Geography,GEOG180
+GEOG200,Applied Geography,GEOG190
+GEOG210,Theory of Geography,GEOG200
+GEOG220,Design in Geography,GEOG210
+GEOG230,Analysis of Geography,GEOG220
+GEOG240,Project in Geography,GEOG230
+GEOG250,Capstone in Geography,GEOG240
+GEOG260,Research in Geography,GEOG250
+GEOG270,Special Topics in Geography,GEOG260
+GEOG280,Practicum in Geography,GEOG270
+GEOG290,Independent Study in Geography,GEOG280
+ENV100,Introduction to Environmental Science
+ENV110,Foundations of Environmental Science
+ENV120,Environmental Science I,ENV100
+ENV130,Environmental Science II,ENV120,MATH100
+ENV140,Intermediate Environmental Science,ENV130
+ENV150,Advanced Environmental Science,ENV140
+ENV160,Field Lab in Environmental Science,ENV150,MATH100
+ENV170,Seminar in Environmental Science,ENV160
+ENV180,Topics in Environmental Science,ENV170
+ENV190,Methods in Environmental Science,ENV180
+ENV200,Applied Environmental Science,ENV190
+ENV210,Theory of Environmental Science,ENV200
+ENV220,Design in Environmental Science,ENV210
+ENV230,Analysis of Environmental Science,ENV220
+ENV240,Project in Environmental Science,ENV230
+ENV250,Capstone in Environmental Science,ENV240
+ENV260,Research in Environmental Science,ENV250
+ENV270,Special Topics in Environmental Science,ENV260
+ENV280,Practicum in Environmental Science,ENV270
+ENV290,Independent Study in Environmental Science,ENV280
+NURS100,Introduction to Nursing
+NURS110,Foundations of Nursing
+NURS120,Nursing I,NURS100
+NURS130,Nursing II,NURS120,BIO100
+NURS140,Intermediate Nursing,NURS130
+NURS150,Advanced Nursing,NURS140
+NURS160,Clinical Lab in Nursing,NURS150,BIO100
+NURS170,Seminar in Nursing,NURS160
+NURS180,Topics in Nursing,NURS170
+NURS190,Methods in Nursing,NURS180
+NURS200,Applied Nursing,NURS190
+NURS210,Theory of Nursing,NURS200
+NURS220,Design in Nursing,NURS210
+NURS230,Analysis of Nursing,NURS220
+NURS240,Project in Nursing,NURS230
+NURS250,Capstone in Nursing,NURS240
+NURS260,Research in Nursing,NURS250
+NURS270,Special Topics in Nursing,NURS260
+NURS280,Practicum in Nursing,NURS270
+NURS290,Independent Study in Nursing,NURS280
+EDUC100,Introduction to Education
+EDUC110,Foundations of Education
+EDUC120,Education I,EDUC100
+EDUC130,Education II,EDUC120
+EDUC140,Intermediate Education,EDUC130
+EDUC150,Advanced Education,EDUC140
+EDUC160,Classroom Lab,EDUC150
+EDUC170,Seminar in Education,EDUC160
+EDUC180,Topics in Education,EDUC170
+EDUC190,Methods in Education,EDUC180
+EDUC200,Applied Education,EDUC190
+EDUC210,Theory of Education,EDUC200
+EDUC220,Design in Education,EDUC210
+EDUC230,Analysis of Education,EDUC220
+EDUC240,Project in Education,EDUC230
+EDUC250,Capstone in Education,EDUC240
+EDUC260,Research in Education,EDUC250
+EDUC270,Special Topics in Education,EDUC260
+EDUC280,Practicum in Education,EDUC270
+EDUC290,Independent Study in Education,EDUC280
